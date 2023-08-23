@@ -6,6 +6,18 @@ public class TodaysAssignments {
 
     int age = 23;
     // Udskriv teksten "I am 23 years old." ved brug af variablen age
+    System.out.println( );
+
+
+
+    // Brug printf() til at udskrive det samme
+    System.out.printf("");
+
+    double weight = 62.6;
+    // Brug printf() til at udskrive: "My weight is 62.6 kg"
+    // Brug printf() til at udskrive: "My weight is 62 kg"
+    // Brug printf() til at udskrive: "My weight is 63 kg"
+    // Brug printf() til at udskrive: "My weight is 62.60 kg"
 
 
 
