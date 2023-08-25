@@ -30,6 +30,7 @@ public class TodaysAssignments {
     // Alder (beregnet ud fra fødselsår)
 
 
+
     // STRING
     System.out.println("\n\n\nSTRING");
     // Opret tekststrengen name og lad den indeholde dit fornavn eller kælenavn (mindst 4 karakterer)
